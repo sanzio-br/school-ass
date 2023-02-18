@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">BMI Calculator</string>
-    <string name="enter_your_height">ENTER YOUR HEIGHT</string>
-    <string name="enter_your_weight">ENTER YOUR WEIGHT</string>
-    <string name="enter_your_name">ENTER YOUR NAME</string>
-    <string name="calculate_bmi">CALCULATE BMI</string>
-    <string name="reset">RESET</string>
-    <string name="exit">EXIT</string>
-</resources>
